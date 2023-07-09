@@ -1,6 +1,6 @@
 /*
-Node + Express Example code for CS160 Summer 2022
-Prepared by Shm Garanganao Almeda 
+Node + Express Example code for CS160 Summer 2023
+Prepared by Shm Garanganao Almeda for Summer 2022
 
 Code referenced from: 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module"
